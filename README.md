@@ -5,7 +5,7 @@ Centralise all your configuration into one repository, and simply clone whenever
 you need it.
 
 A Common Scenario
-=================
+-----------------
 
 When SSHing into a new VM, opening a terminal on a new or unknown computer or
 simply after a good old reformat, there are few things worse than realising that
@@ -19,7 +19,7 @@ and you forget that for some reason OS X insists on your `.bashrc` being named
 `.bash_profile`. There is a better way.
 
 How it Works
-============
+------------
 
 This repo stores the master copy of each configuration file that you use. For
 example, your `.bashrc`, your `.vimrc` or your `.gitconfig`. You clone this repo
